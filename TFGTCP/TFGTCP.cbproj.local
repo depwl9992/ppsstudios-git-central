@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/24 10:19:19.000.861,=C:\Users\Daniel\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013/06/24 10:19:19.000.877,=C:\Users\Daniel\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/24 10:19:34.000.120,C:\Users\Daniel\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Daniel\Documents\RAD Studio\Projects\Socket.cbproj</Transaction>
+    <Transaction>2013/06/24 10:19:34.000.117,C:\Users\Daniel\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\Daniel\Documents\RAD Studio\Projects\SocketPCH1.h</Transaction>
+    <Transaction>2013/06/24 10:19:44.000.724,C:\Users\Daniel\Documents\RAD Studio\Projects\Socket.cbproj=C:\Users\Daniel\Documents\RAD Studio\Projects\TFGTCP.cbproj</Transaction>
+    <Transaction>2013/06/24 10:19:44.000.721,C:\Users\Daniel\Documents\RAD Studio\Projects\SocketPCH1.h=C:\Users\Daniel\Documents\RAD Studio\Projects\TFGTCPPCH1.h</Transaction>
+    <Transaction>2013/06/24 10:21:13.000.063,C:\Users\Daniel\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Daniel\Documents\My Git\TFGTCP\Unit1.cpp</Transaction>
+    <Transaction>2013/06/24 10:21:13.000.063,C:\Users\Daniel\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Daniel\Documents\My Git\TFGTCP\Unit1.dfm</Transaction>
+    <Transaction>2013/06/24 10:21:13.000.063,C:\Users\Daniel\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Daniel\Documents\My Git\TFGTCP\Unit1.h</Transaction>
+    <Transaction>2013/06/24 10:21:17.000.232,C:\Users\Daniel\Documents\RAD Studio\Projects\TFGTCPPCH1.h=C:\Users\Daniel\Documents\My Git\TFGTCP\TFGTCPPCH1.h</Transaction>
+    <Transaction>2013/06/24 10:21:18.000.248,C:\Users\Daniel\Documents\RAD Studio\Projects\TFGTCP.cbproj=C:\Users\Daniel\Documents\My Git\TFGTCP\TFGTCP.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
